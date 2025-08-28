@@ -52,6 +52,4 @@ function repeatMessage(times, messageCreator) {
   }
 }
 
-repeatMessage(5, (index) => {
-  console.log(`Повідомлення #${index + 1}`);
-});
+
